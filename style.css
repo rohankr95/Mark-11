@@ -1,0 +1,89 @@
+*{
+    
+    background-color:#047857 ;
+
+}
+
+.container{
+
+    width: 50vw;
+    margin: auto;
+    text-align: center;
+    
+    
+}
+
+.heading{
+
+    text-align: center;
+    color: #F59E0B;
+    
+}
+
+input,label{
+    display: block;
+    margin: auto;
+    border-radius:0.5rem ;
+    padding: 0.2rem;
+    color: #F59E0B;
+
+    
+}
+
+input{
+    background-color:whitesmoke;
+}
+
+label{
+    margin: auto;
+    text-align: center;
+    font-weight:bolder ;
+    padding: 0.5rem;
+}
+
+#check-number{
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 0.2rem;
+    margin-top: 1rem;
+    border-radius: 0.2rem;
+    color: #F59E0B;
+    border-color: #F59E0B;
+    
+}
+
+#display{
+
+    width: 15rem;
+    height: 3rem;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    background-color:whitesmoke;
+    color: #F59E0B;
+    text-align: center;
+    font-weight: bolder;
+}
+
+footer{
+    margin: auto;
+    text-align: center;
+    padding-top: 1rem;
+
+
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    margin-right: 0.5rem;
+    font-family: cursive;
+}
+
+
+
+
